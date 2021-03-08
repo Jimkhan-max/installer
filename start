@@ -17,9 +17,9 @@ print('''%s
  
                  *_*
  ======================================
- |Author: Mohammad Hasan Rizvy Pranto |
- |Youtube: Green Whale                |
- |Facebook: Green Whale               |
+ |Author: sadnan sakib jim            |
+ |Youtube: jim official               |
+ |Facebook: jim khan                  |
  ====================================== %s''' % (R,N))    
      
                        
